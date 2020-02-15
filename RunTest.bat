@@ -1,0 +1,1 @@
+specflow.exe nunitexecutionreport --ProjectFile {PathToProjectSln.csproj} --xmlTestResult {PathToNUnitReportXml} --OutputFile {DesiredPathToGenerateHtmlReport}
